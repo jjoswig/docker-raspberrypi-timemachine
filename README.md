@@ -5,9 +5,9 @@ docker image to run a TimeMachine compatible container on basis of Samba to prov
 ## Prerequisites
 
 To run this docker image you will need the following:
-# A Raspberry PI - I propose to use at least a Raspberry PI 4, because it has enough resources and interfaces (USB 3.0, GBIT ethernet) that will provide an appropriate backup speed
-# Raspbian Buster - You should ideally use Raspbian as operating system on the Raspberry PI (https://www.raspbian.org/)
-# Docker - Please install docker using: sudo apt update && sudo apt install docker.io 
+* A Raspberry PI - I propose to use at least a Raspberry PI 4, because it has enough resources and interfaces (USB 3.0, GBIT ethernet) that will provide an appropriate backup speed
+* Raspbian Buster - You should ideally use Raspbian as operating system on the Raspberry PI (https://www.raspbian.org/)
+* Docker - Please install docker using: sudo apt update && sudo apt install docker.io 
 
 ## Tags
 
